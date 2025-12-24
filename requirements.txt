@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+streamlit
+requests
+openai
+pandas
+matplotlib
+python-multipart
+openpyxl
+python-dotenv
